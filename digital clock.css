@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+div#time {
+    width: 365px;
+    margin: auto;
+    padding: 25px;
+    font-size: 60px;
+    margin-top: 300px;
+    font-family: Righteous;
+    border-radius: 10px;
+    border: 37px solid #d3d3a3;
+    color: #28ffebf0;
+    background: black;
+    box-shadow: 13px 22px 21px -14px #17775c9e;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
